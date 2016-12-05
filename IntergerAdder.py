@@ -51,3 +51,4 @@ def getValue(index, array):
 
 #add([1,9], [1,2,3])
 addComplex([1,9], [1,2,3], [1])
+addComplex([0], [1])
